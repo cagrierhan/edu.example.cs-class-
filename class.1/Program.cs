@@ -28,7 +28,7 @@ namespace Class
         {
             evHalkı annem = new evHalkı();
             {
-                annem.Name = "Arzu Erinmez";
+                annem.Name = "Arzu";
                 annem.DogYil = 1980;
                 annem.Job = "Ticaret";
                 annem.EyeColor = "Kahverengi";
@@ -38,7 +38,7 @@ namespace Class
             }
             evHalkı kardesim = new evHalkı();
             {
-                kardesim.Name = "Çağla Yade Erhan";
+                kardesim.Name = "Çağla";
                 kardesim.DogYil = 2000;
                 kardesim.Job = "Öğrenci";
                 kardesim.EyeColor = "Kahverengi";
@@ -47,7 +47,7 @@ namespace Class
             }
             evHalkı ben = new evHalkı();
             {
-                ben.Name = "Çağrı Erhan";
+                ben.Name = "Çağrı";
                 ben.DogYil = 1999;
                 ben.Job = "Öğrenci";
                 ben.EyeColor = "Kahverengi";
